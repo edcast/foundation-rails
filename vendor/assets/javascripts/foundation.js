@@ -1,4 +1,5 @@
 //= require foundation/foundation
+//= require foundation/foundation.balancer
 //= require foundation/foundation.abide
 //= require foundation/foundation.accordion
 //= require foundation/foundation.alert
